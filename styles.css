@@ -1,0 +1,32 @@
+.bg-container {
+    font-family: 'Roboto';
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/library-management-bg.png");
+    background-size: cover;
+    padding-top: 35px;
+    height: 45vh;
+}
+
+.main-heading {
+    color: #ffffff;
+    font-size: 47px;
+}
+
+.input {
+    margin-top: 47px;
+}
+
+.bookList-heading {
+    color: #323f4b;
+    font-size: 33px;
+    margin-bottom: 33px;
+}
+
+.book-container {
+    text-align: center;
+    margin-bottom: 21px;
+}
+
+.author-name {
+    color: #323f4b;
+    font-weight: 500;
+}
